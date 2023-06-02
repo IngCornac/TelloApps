@@ -1,5 +1,5 @@
 # TelloApps
-Basic tasks performed with the Python-programmable DJI Tello drone
+Basic tasks performed with the Python-programmable DJI Tello drone.
 
 Small, commercial drones were a public niche and an r&d darling five years ago, before supranational regulation (rightly limiting what one can do with them when other people are in the scene) and the war in Ukraine (bluntly showing to the world how they can be used to kill or wound people) made them something to fear or to be ashamed of. 
 
